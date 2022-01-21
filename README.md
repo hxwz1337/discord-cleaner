@@ -18,6 +18,6 @@
 
 **Contributions**:
 
-<code><img height="50" src="https://avatars.githubusercontent.com/u/58274222?v=4"></code> | <code><img height="50" src="https://avatars.githubusercontent.com/u/63268168?v=4"></code> | <code><img height="50" src="https://avatars.githubusercontent.com/u/74469788?s=400&u=9a74fbf647c26ff9633e13233d3c6017c6fd43e7&v=4"></code>  
+<code><img height="50" src="https://avatars.githubusercontent.com/u/97983799?v=4v=4">
 
 </p>

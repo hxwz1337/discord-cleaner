@@ -18,6 +18,6 @@
 
 **Contributions**:
 
-<code><img height="50" src="https://avatars.githubusercontent.com/u/97983799?v=4v=4">
+<code><img height="50" src="https://avatars.githubusercontent.com/u/97983799?">
 
 </p>
